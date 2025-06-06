@@ -19,7 +19,7 @@ const EngineeringPage = () => {
                 <div className="bg-ocean-surface/10 p-3 rounded-full mr-4">
                   <i className="fas fa-cogs text-ocean-surface text-2xl"></i>
                 </div>
-                <h3 className="text-xl font-bold text-ocean-deep">identifying the issue</h3>
+                <h3 className="text-xl font-bold text-ocean-deep">Identifying the issue</h3>
               </div>
               
               <img 
@@ -30,7 +30,7 @@ const EngineeringPage = () => {
               
               <div className="space-y-4">
                 <div className="border-l-4 border-coral-green pl-4">
-                  <h4 className="font-semibold text-ocean-deep">OverFishing all over the world</h4>
+                  <h4 className="font-semibold text-ocean-deep">Overfishing all over the world</h4>
                   <p className="text-slate-600 text-sm">Overfishing has pushed 33% of global fish stocks into an overexploited state and another 60% to full exploitation, leaving only 64.6% of stocks within biologically sustainable levels (down from 90% in the 1970s). Illegal, unreported, and unregulated (IUU) fishing contributes roughly 20% of wild-caught fish while generating about $36 billion in illicit profits each year. Although marine protected areas now cover 8% of the ocean’s surface, just 3% are highly protected, meaning the vast majority of fishing grounds remain vulnerable. As a result, critical marine ecosystems are collapsing, food security for over 3 billion people is at risk, and coastal economies lose billions annually due to declining catches and depleted stocks.
 </p>
                 </div>
@@ -55,7 +55,7 @@ const EngineeringPage = () => {
               
               <div className="space-y-4">
                 <div className="border-l-4 border-blue-500 pl-4">
-                  <h4 className="font-semibold text-ocean-deep">all of our ideas</h4>
+                  <h4 className="font-semibold text-ocean-deep">Our ideas</h4>
                   <p className="text-slate-600 text-sm">We had come up with a lot of different solutions to stop overfishing. At the beginning we had come up with the idea to police fish imports. We then realized that governments have already attempted this and it did not work. We then thought of the idea of tracking every individual fish. That turned out to be too hard and expensive to be a viable solution. We also pondered the idea of just banning fish altogether so that the oceans could regain stability and life. We realized that this would deplete 3 billion people of their main source of protein and disrupt global supply chains. We then thought of having fish verified by our system. This would have all fishing put through one system to track fishing rates.</p>
                 </div>
                 <div className="border-l-4 border-purple-500 pl-4">
@@ -68,7 +68,7 @@ const EngineeringPage = () => {
                 <div className="bg-purple-500/10 p-3 rounded-full mr-4">
                   <i className="fas fa-microchip text-purple-500 text-2xl"></i>
                 </div>
-                <h3 className="text-xl font-bold text-ocean-deep">Picking The Best Solution</h3>
+                <h3 className="text-xl font-bold text-ocean-deep">Picking The best solution</h3>
               </div>
               
               <img 
@@ -79,7 +79,7 @@ const EngineeringPage = () => {
               
               <div className="space-y-4">
                 <div className="border-l-4 border-teal-500 pl-4">
-                  <h4 className="font-semibold text-ocean-deep">Registered Catch Systems</h4>
+                  <h4 className="font-semibold text-ocean-deep">Registered catch systems</h4>
                   <p className="text-slate-600 text-sm">The final solution we have come up with is a foolproof plan that requires fishermen to register their catches. To do this we have created an app that tracks the type of fish caught, the location caught and the fishermen who caught it. After the fish are verified by taking a picture of the batch you must load them into our standard boxes that have scales in them to stop fishermen from adding extra fish. A QR code will be created for each batch, allowing for consumers and local authorities to v]confirm its authenticity. The unverified fish have a 48% tax placed on them to make buying them unprofitable.
 </p>
                 </div>
@@ -93,7 +93,7 @@ const EngineeringPage = () => {
                 <div className="bg-yellow-500/10 p-3 rounded-full mr-4">
                   <i className="fas fa-wind text-yellow-500 text-2xl"></i>
                 </div>
-                <h3 className="text-xl font-bold text-ocean-deep">Creating prototype</h3>
+                <h3 className="text-xl font-bold text-ocean-deep">Creating prototypes</h3>
               </div>
               
               <img 
@@ -104,7 +104,7 @@ const EngineeringPage = () => {
               
               <div className="space-y-4">
                 <div className="border-l-4 border-yellow-600 pl-4">
-                  <h4 className="font-semibold text-ocean-deep">Fishing box and App</h4>
+                  <h4 className="font-semibold text-ocean-deep">Fishing box and app</h4>
                   <p className="text-slate-600 text-sm">For the physical component of our prototype, we created a box that has a highly sensitive scale which measures the amount of fake fish in the box. Using a Raspberry Pi, the weight of the fish is then sent to our computer to decide if they have overfished, for our prototype.        
                   </p>
                   <p className="text-slate-600 text-sm">For the app, we prototyped the point-of-catch system, which is designed for the fishermen. We wanted to make sure the app was easy to use, but still allowed you to see the status of your catches at a glance.
@@ -120,7 +120,7 @@ const EngineeringPage = () => {
                 <div className="bg-red-500/10 p-3 rounded-full mr-4">
                   <i className="fas fa-robot text-red-500 text-2xl"></i>
                 </div>
-                <h3 className="text-xl font-bold text-ocean-deep">Testing the Prototype</h3>
+                <h3 className="text-xl font-bold text-ocean-deep">Testing the prototype</h3>
               </div>
               
               <img 
